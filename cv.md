@@ -60,7 +60,7 @@ setInterval(() => {
 ```
 
 ### Courses:
-![George Gorshkov-developer](https://raw.githubusercontent.com/g275691/rsschool-cv/gh-pages/img/skillfactory.jpg)
+![SkillFactory-diplom](https://raw.githubusercontent.com/g275691/rsschool-cv/gh-pages/img/skillfactory.jpg)
 
 ### Languages:
 * Russian - native speaker.
