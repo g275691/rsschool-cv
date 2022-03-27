@@ -12,13 +12,13 @@
 Now I am learning to write various useful skills for Yandex Alice. I use __ExpressJS__ and __Glitch__ for this. In the future, my Alice will invite users to play a detective story and give useful tips on healthy eating.
 Last year I completed courses __Full-Stack JavaScript developer__, where I gained experience working with client and server sides. My graduation project was the creation of a car sharing service. Technology stack: __ReactJS+Redux__, and __NestJS__.
 ### Skills:
-Client-side:
+__Client-side__:
 * HTML /SCSS/JS(ES6+)
 * Webpack
 * React + Redux
 * Websockets
 
-Server-side:
+__Server-side__:
 * NestJS or Express
 * NextJS
 ### Code example:
@@ -53,6 +53,6 @@ setInterval(() => {
 ```
 ### Courses:
 ![George Gorshkov-developer](https://github.com/g275691/rsschool-cv/blob/gh-pages/img/skillfactory.jpg)
-### Languages
+### Languages:
 * Russian - native speaker.
 * English - A2 (B1 in progress)
