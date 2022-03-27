@@ -1,2 +1,2 @@
-# Заголовок 1 
-## Заголовок 2 
+# George Gorshkov
+## Frontend developer
