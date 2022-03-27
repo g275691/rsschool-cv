@@ -1,1 +1,1 @@
-https://github.com/g275691/rsschool-cv/blob/main/cv.md
+https://g275691.github.io/rsschool-cv/cv
