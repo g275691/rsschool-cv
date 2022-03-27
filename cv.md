@@ -2,7 +2,7 @@
 ### __JAVASCRIPT DEVELOPER__
 
 ***
-![George Gorshkov-developer](https://github.com/g275691/rsschool-cv/blob/main/img/mini-gosh2.jpg)
+![George Gorshkov-developer](https://github.com/g275691/rsschool-cv/blob/gh-pages/img/mini-gosh2.jpg)
 ### Contact me:
 * E-mail: g275691@gmail.com or g275691@yandex.ru
 * Telegram: +7(961) 914-60-97
