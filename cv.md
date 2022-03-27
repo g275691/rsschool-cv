@@ -4,9 +4,9 @@
 
 
 ### Contact me:
-* E-mail: *g275691@gmail.com or g275691@yandex.ru*
-* Telegram: *+7(961) 914-60-97*
-* GitHub: *g275691*
+* E-mail: g275691@gmail.com or g275691@yandex.ru
+* Telegram: +7(961) 914-60-97
+* GitHub: g275691
 
 ### About me:
  I'm a junior __Javascript developer__. I love javascript and a bit of python, and i love using them in my daily life: automate all the tedious processes in my browser and on my computer.
