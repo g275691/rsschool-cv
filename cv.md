@@ -1,5 +1,5 @@
 # GEORGE GORSHKOV
-![George Gorshkov-developer](https://github.com/g275691/rsschool-cv/blob/gh-pages/img/mini-gosh2.jpg)
+![George Gorshkov-developer](https://raw.githubusercontent.com/g275691/rsschool-cv/gh-pages/img/mini-gosh2.jpg)
 ## __JAVASCRIPT DEVELOPER__
 
 ***
@@ -60,7 +60,7 @@ setInterval(() => {
 ```
 
 ### Courses:
-![George Gorshkov-developer](https://github.com/g275691/rsschool-cv/blob/gh-pages/img/skillfactory.jpg)
+![George Gorshkov-developer](https://raw.githubusercontent.com/g275691/rsschool-cv/gh-pages/img/skillfactory.jpg)
 
 ### Languages:
 * Russian - native speaker.
